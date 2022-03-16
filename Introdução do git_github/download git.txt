@@ -1,0 +1,9 @@
+Ola!!!
+Usuario DEV do git/github.
+
+Agora vamos baixar o git para sua maquina local.
+
+link: https://git-scm.com/downloads
+
+Teste de repositório e projeto.
+
